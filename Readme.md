@@ -1,6 +1,7 @@
 # C++ Journey
 
 A repository documenting my journey of C++.
+___
 
 ## About
 
@@ -8,8 +9,8 @@ This repository contains my notes,practice programs,mini-projects and experiment
 
 My goal is to build a strong foundation in C++ for:
 
-° Competitive Programming 
-° System Programming
+° Competitive Programming <br> 
+° System Programming <br>
 and many more
 
 ___
